@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a889ada2-7df2-4ddc-9b63-6bd7fd1f1c3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/detectron2/detectron2/evaluation/nest_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/GETTING_STARTED.md" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/GETTING_STARTED.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/detectron2/data/datasets/coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/detectron2/data/datasets/coco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/detectron2/data/detection_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/detectron2/data/detection_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/detectron2/engine/defaults.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/detectron2/engine/defaults.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/detectron2/evaluation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/detectron2/evaluation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/detectron2/evaluation/coco_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/detectron2/evaluation/coco_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/detectron2/modeling/proposal_generator/rpn.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/detectron2/modeling/proposal_generator/rpn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectron2/detectron2/utils/visualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectron2/detectron2/utils/visualizer.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/detectron2" />
+  </component>
+  <component name="JupyterTrust" id="2a12ae9f-c152-4d36-9923-dd317e673ddc" />
+  <component name="ProjectId" id="1nOI4dpPK0AkUgHqV6QX90kJDsp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager" selected="Python.overlay_mask">
+    <configuration name="agg_10_times" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nest Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evaluation/agg_10_times.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="overlay_mask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nest Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evaluation/overlay_mask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepare_coco" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nest Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/prepare_coco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml2mask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nest Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/xml2mask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml2poly" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nest Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/xml2poly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.overlay_mask" />
+        <item itemvalue="Python.agg_10_times" />
+        <item itemvalue="Python.prepare_coco" />
+        <item itemvalue="Python.xml2mask" />
+        <item itemvalue="Python.xml2poly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a889ada2-7df2-4ddc-9b63-6bd7fd1f1c3b" name="Default Changelist" comment="" />
+      <created>1611254520366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611254520366</updated>
+      <workItem from="1611254524629" duration="16554000" />
+      <workItem from="1611355548130" duration="79707000" />
+      <workItem from="1612162502243" duration="211759000" />
+      <workItem from="1613533438788" duration="1928000" />
+      <workItem from="1614104707718" duration="117931000" />
+      <workItem from="1614889861601" duration="279000" />
+      <workItem from="1615147529700" duration="47000" />
+      <workItem from="1615179802166" duration="58705000" />
+      <workItem from="1615785048986" duration="22259000" />
+      <workItem from="1615919346707" duration="618000" />
+      <workItem from="1615920290722" duration="747000" />
+      <workItem from="1615953196246" duration="15045000" />
+      <workItem from="1617310284668" duration="6136000" />
+      <workItem from="1618434248347" duration="47000" />
+      <workItem from="1619064831778" duration="10000" />
+      <workItem from="1621707052925" duration="15257000" />
+      <workItem from="1622581620629" duration="7000" />
+      <workItem from="1623176778931" duration="170000" />
+      <workItem from="1623807999170" duration="1358000" />
+      <workItem from="1623824524597" duration="831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2100" y="338" key="#Deployment" timestamp="1615919903033">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state x="2100" y="338" key="#Deployment/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1615919903033" />
+    <state x="2202" y="415" width="949" height="579" key="#xdebugger.evaluate" timestamp="1621717875757">
+      <screen x="1440" y="25" width="1920" height="1100" />
+    </state>
+    <state x="2202" y="442" width="949" height="579" key="#xdebugger.evaluate/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1621717396895" />
+    <state x="450" y="207" key="#xdebugger.evaluate/0.25.1440.800@0.25.1440.800" timestamp="1616212976356" />
+    <state x="2202" y="415" key="#xdebugger.evaluate/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717875757" />
+    <state width="1878" height="252" key="GridCell.Tab.0.bottom" timestamp="1623825364283">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="1878" height="252" key="GridCell.Tab.0.bottom/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623825364283" />
+    <state width="1398" height="348" key="GridCell.Tab.0.bottom/0.25.1440.800@0.25.1440.800" timestamp="1621982355863" />
+    <state width="1878" height="348" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717970394" />
+    <state width="1878" height="252" key="GridCell.Tab.0.center" timestamp="1623825364283">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="1878" height="252" key="GridCell.Tab.0.center/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623825364283" />
+    <state width="1398" height="348" key="GridCell.Tab.0.center/0.25.1440.800@0.25.1440.800" timestamp="1621982355863" />
+    <state width="1878" height="348" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717970393" />
+    <state width="1878" height="252" key="GridCell.Tab.0.left" timestamp="1623825364283">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="1878" height="252" key="GridCell.Tab.0.left/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623825364283" />
+    <state width="1398" height="348" key="GridCell.Tab.0.left/0.25.1440.800@0.25.1440.800" timestamp="1621982355863" />
+    <state width="1878" height="348" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717970393" />
+    <state width="1878" height="252" key="GridCell.Tab.0.right" timestamp="1623825364283">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="1878" height="252" key="GridCell.Tab.0.right/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623825364283" />
+    <state width="1398" height="348" key="GridCell.Tab.0.right/0.25.1440.800@0.25.1440.800" timestamp="1621982355863" />
+    <state width="1878" height="348" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717970394" />
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom" timestamp="1623825364278">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623825364278" />
+    <state width="1398" height="348" key="GridCell.Tab.1.bottom/0.25.1440.800@0.25.1440.800" timestamp="1621982355864" />
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717965051" />
+    <state width="1878" height="348" key="GridCell.Tab.1.center" timestamp="1623825364277">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.center/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623825364277" />
+    <state width="1398" height="348" key="GridCell.Tab.1.center/0.25.1440.800@0.25.1440.800" timestamp="1621982355864" />
+    <state width="1878" height="348" key="GridCell.Tab.1.center/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717965050" />
+    <state width="1878" height="348" key="GridCell.Tab.1.left" timestamp="1623825364277">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.left/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623825364277" />
+    <state width="1398" height="348" key="GridCell.Tab.1.left/0.25.1440.800@0.25.1440.800" timestamp="1621982355864" />
+    <state width="1878" height="348" key="GridCell.Tab.1.left/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717965049" />
+    <state width="1878" height="348" key="GridCell.Tab.1.right" timestamp="1623825364278">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.right/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623825364278" />
+    <state width="1398" height="348" key="GridCell.Tab.1.right/0.25.1440.800@0.25.1440.800" timestamp="1621982355864" />
+    <state width="1878" height="348" key="GridCell.Tab.1.right/0.25.1440.875/1440.25.1920.1100@1440.25.1920.1100" timestamp="1621717965050" />
+    <state x="2032" y="316" width="1032" height="728" key="SettingsEditor" timestamp="1623823582934">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state x="2032" y="316" width="1032" height="728" key="SettingsEditor/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623823582934" />
+    <state width="960" height="588" key="XDebugger.FullValuePopup" timestamp="1615780189141">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state width="960" height="588" key="XDebugger.FullValuePopup/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1615780189141" />
+    <state x="334" y="41" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1623808207678">
+      <screen x="0" y="25" width="1440" height="800" />
+    </state>
+    <state x="334" y="41" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.800/1440.25.1920.1175@0.25.1440.800" timestamp="1623808207678" />
+    <state x="334" y="41" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1440.800@0.25.1440.800" timestamp="1616212759247" />
+    <state x="2318" y="398" key="ftp.server.browser" timestamp="1623823573319">
+      <screen x="1440" y="25" width="1920" height="1175" />
+    </state>
+    <state x="2318" y="398" key="ftp.server.browser/0.25.1440.800/1440.25.1920.1175@1440.25.1920.1175" timestamp="1623823573319" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/evaluation/evaluator.py</url>
+          <line>175</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Nest_Detection$split_dataset.coverage" NAME="split_dataset Coverage Results" MODIFIED="1615837264598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$box_stats.coverage" NAME="box_stats Coverage Results" MODIFIED="1611880927354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$agg_10_times.coverage" NAME="agg_10_times Coverage Results" MODIFIED="1621969973244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Evaluation" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$test_net.coverage" NAME="test_net Coverage Results" MODIFIED="1612138009023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$new_split_evaluate.coverage" NAME="new_split_evaluate Coverage Results" MODIFIED="1615873635040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Evaluation" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$pixel_evaluate.coverage" NAME="pixel_evaluate Coverage Results" MODIFIED="1616004590635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Evaluation" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$prepare_coco.coverage" NAME="prepare_coco Coverage Results" MODIFIED="1621721530548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$xml2mask.coverage" NAME="xml2mask Coverage Results" MODIFIED="1621717965011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$xml2poly.coverage" NAME="xml2poly Coverage Results" MODIFIED="1617394099795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$do_test.coverage" NAME="do_test Coverage Results" MODIFIED="1612675618398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$test_image.coverage" NAME="test_image Coverage Results" MODIFIED="1612161260072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$agg.coverage" NAME="agg Coverage Results" MODIFIED="1616047476087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Evaluation" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$train_net.coverage" NAME="train_net Coverage Results" MODIFIED="1616010873764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$test.coverage" NAME="test Coverage Results" MODIFIED="1612294627232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$temp.coverage" NAME="temp Coverage Results" MODIFIED="1612490294882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$do_test__1_.coverage" NAME="do_test (1) Coverage Results" MODIFIED="1613387177949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$train_config.coverage" NAME="train_config Coverage Results" MODIFIED="1614293693550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$check_bug.coverage" NAME="check_bug Coverage Results" MODIFIED="1614210746610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$overlay_mask.coverage" NAME="overlay_mask Coverage Results" MODIFIED="1623825270880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Evaluation" />
+    <SUITE FILE_PATH="coverage/Nest_Detection$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1612758896482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Library/Caches/PyCharm2019.3/remote_sources/-419910032/-169146669/numba/core" />
+  </component>
+</project>

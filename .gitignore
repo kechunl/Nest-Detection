@@ -1,0 +1,6 @@
+*.md
+*.xlsx
+*.sh
+process_mask.py
+Evaluation/
+data/
